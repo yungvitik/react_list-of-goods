@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,YAEE,kEAAsE,CACtE,cACF","file":"main.c637aaa1.chunk.css","sourcesContent":[".App,\nbutton {\n  font-family: Impact, Haettenschweiler, \"Arial Narrow Bold\", sans-serif;\n  font-size: 20px;\n}\n"]}
